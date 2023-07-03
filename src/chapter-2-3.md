@@ -3,13 +3,6 @@ Examples of Successful Implementation of AI in Writing
 
 In this chapter, we will provide an overview of AI technology and its applications in writing. Additionally, we will discuss examples of successful implementation of AI in writing to demonstrate the potential benefits for writers.
 
-What is AI?
------------
-
-AI, or artificial intelligence, refers to computer systems that are designed to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
-
-AI technology can be divided into two main categories: narrow or weak AI, which is designed to perform a specific task, and general or strong AI, which is designed to perform any intellectual task that a human can.
-
 Applications of AI in Writing
 -----------------------------
 
