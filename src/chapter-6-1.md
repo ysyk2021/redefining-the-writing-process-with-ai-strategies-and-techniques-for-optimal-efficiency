@@ -1,5 +1,3 @@
-Addressing Concerns about Plagiarism and Authenticity when using AI in Writing Practices
-================================================================================================================================================================================
 
 In this chapter, we will address the ethical considerations and best practices for using AI technology in writing to avoid concerns about plagiarism and authenticity.
 

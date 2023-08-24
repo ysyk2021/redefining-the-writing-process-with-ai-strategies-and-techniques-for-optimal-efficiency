@@ -1,5 +1,3 @@
-What is AI and How Does It Work?
-=============================================================================================
 
 In this chapter, we will provide an overview of AI technology and its applications in writing. We will also discuss what AI is and how it works.
 

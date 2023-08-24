@@ -1,5 +1,3 @@
-Machine learning-powered virtual assistants for writing support
-========================================================================================================================================
 
 In this chapter, we will discuss how machine learning can be leveraged to create virtual assistants that provide personalized writing support. By using AI-powered virtual assistants, writers can receive tailored feedback and guidance throughout the writing process.
 

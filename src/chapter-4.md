@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Writing Support
-=======================================================================
 
 In this chapter, we will explore how machine learning can be leveraged to provide personalized writing support. By using AI-powered tools and techniques, writers can receive real-time feedback, analyze their writing style, and overcome common challenges in the writing process.
 

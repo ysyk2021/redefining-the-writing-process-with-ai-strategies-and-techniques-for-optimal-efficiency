@@ -1,5 +1,3 @@
-Personalizing Content Creation with Machine Learning
-===================================================================================================
 
 In this chapter, we will explore how AI technology can be used to enhance content creation through personalization using machine learning.
 
