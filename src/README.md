@@ -10,3 +10,7 @@ In addition to exploring these key topics, the book will provide real-world exam
 Whether you're a professional writer, student, or simply someone looking to improve your writing skills, this book has something to offer. So, if you're ready to redefine your writing process with AI, let's dive in!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
