@@ -1,5 +1,4 @@
-Chapter: Using Machine Learning-Powered Recommendation Engines for Topic and Keyword Generation
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of machine learning-powered recommendation engines for topic and keyword generation in the writing process. These powerful AI tools leverage vast amounts of data and sophisticated algorithms to suggest relevant topics and keywords, enhancing the efficiency and creativity of writers.
 

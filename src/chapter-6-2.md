@@ -1,5 +1,4 @@
-Chapter: Best Practices for Integrating AI into Writing While Maintaining Creativity and Originality
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating AI into the writing process offers numerous benefits, such as increased efficiency and access to valuable resources. However, it is essential to balance the use of AI with maintaining creativity and originality. In this chapter, we will explore best practices for effectively integrating AI into the writing process.
 

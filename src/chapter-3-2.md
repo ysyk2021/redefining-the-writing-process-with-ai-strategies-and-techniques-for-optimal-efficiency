@@ -1,5 +1,4 @@
-Chapter: Integrating AI-Powered Tools for Tracking and Reflecting on Writing Habits
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI-powered tools can be integrated into the writing process to track and reflect on writing habits. By leveraging the capabilities of AI, writers can gain valuable insights into their writing patterns, identify areas for improvement, and enhance their overall efficiency and creativity.
 

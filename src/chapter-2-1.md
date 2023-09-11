@@ -1,5 +1,4 @@
-Chapter: What is AI and how does it work?
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) is a rapidly evolving field of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence. In this chapter, we will provide an overview of AI and its subfields, as well as explore how AI works.
 

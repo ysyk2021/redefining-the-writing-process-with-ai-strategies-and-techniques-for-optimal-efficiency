@@ -1,5 +1,4 @@
-Chapter: Future Developments and Trends in AI-Powered Writing
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to advance, it is poised to reshape the writing process in ways we never imagined. This chapter explores the future developments and trends in AI-powered writing, providing insights into the exciting possibilities that lie ahead.
 

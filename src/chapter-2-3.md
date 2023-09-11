@@ -1,5 +1,4 @@
-Chapter: Examples of Successful Implementation of AI in Writing
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world examples of successful implementation of AI in writing. These examples showcase the diverse ways in which AI strategies and techniques have been utilized to enhance the writing process, ultimately leading to improved efficiency and creativity.
 

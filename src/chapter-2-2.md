@@ -1,5 +1,4 @@
-Chapter: Common Applications of AI in Writing, including Editing and Content Creation
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common applications of AI in writing, focusing on editing and content creation. AI-powered strategies and techniques have revolutionized the writing process, offering new opportunities for enhanced efficiency and creativity.
 
